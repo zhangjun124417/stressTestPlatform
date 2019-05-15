@@ -1,5 +1,5 @@
 **项目说明** 
-- 本项目基于renren-fast Java开发平台开发，内核基于Jmeter-Api和Jmeter脚本实现在线性能压测。
+- 测试到此一游本项目基于renren-fast Java开发平台开发，内核基于Jmeter-Api和Jmeter脚本实现在线性能压测。
 <br> 
  
 
